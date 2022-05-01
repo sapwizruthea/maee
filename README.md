@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+</html>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -32,9 +32,9 @@
         <div class="skills">
             <hr>
             <h3>Skills</h3>
-            <p> Computer Literate &#11088;&#11088; </p>
-            <p>Editing <span style="position:absolute; :"> &#11088;&#11088; </span> </p>
-            <p>Photoshop <span style="position:absolute;"> &#11088;&#11088;&#11088;</span></p>
+            <p> Computer Literate  &#11088;&#11088; </p>
+            <p>Editing <span style="position:absolute; :">   &#11088;&#11088; </span> </p>
+            <p>Photoshop <span style="position:absolute;">   &#11088;&#11088;&#11088;</span></p>
         </div>
         <div>
             <hr>
